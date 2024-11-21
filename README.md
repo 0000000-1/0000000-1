@@ -10,6 +10,23 @@
 
 ### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications
 
+- 🌱 I’m currently doing **[BCA](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
+- 💬 Ask me about **Node.js, React...or anything [here](https://github.com/0000000-1/0000000-1/issues)**
+
+<br>
+
+<div align="center">
+  <a href="jir99587@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/chijiokeokorji" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<hr>
+
+
 ## 🛠️ Languages and Tools
 
 <br>
