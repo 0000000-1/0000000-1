@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+0000000-1!;" />
 </h1>
 
-### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications
+### A Frontend software engineer love to learn about building beautiful, functional, and user-centric web applications
 
 - 🌱 I’m currently doing **[BCA](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
 - 💬 Ask me about **Node.js, React...or anything [here](https://github.com/0000000-1/0000000-1/issues)**
